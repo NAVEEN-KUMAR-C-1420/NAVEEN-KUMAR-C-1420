@@ -118,7 +118,7 @@ Production-grade support bot with semantic memory, multilingual intent handling 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NAVEEN-KUMAR-C-1420&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9&text_color=94A3B8&cache_seconds=1800" height="160"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NAVEEN-KUMAR-C-1420&theme=tokyonight" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAVEEN-KUMAR-C-1420&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0EA5E9&text_color=94A3B8" height="160"/>
 
