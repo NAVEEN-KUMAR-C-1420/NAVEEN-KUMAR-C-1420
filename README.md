@@ -28,7 +28,7 @@
 
 ## ⚡ About Me
 
-I'm a **3rd-year B.Tech IT student** at Sri Shakthi Institute of Engineering and Technology, Coimbatore — building production-grade AI systems while still in college.
+I'm a **Final-year B.Tech IT student** at Sri Shakthi Institute of Engineering and Technology, Coimbatore — building production-grade AI systems while still in college.
 
 I focus on **Agentic AI, RAG pipelines, and full-stack AI products** — systems that don't just demo well but actually work at scale. I've shipped real projects, filed patents, and contributed to open source, and I'm actively looking for **AI/ML internship and junior engineer roles**.
 
