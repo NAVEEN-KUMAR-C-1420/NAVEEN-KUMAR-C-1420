@@ -2,7 +2,7 @@
 
 <!-- Dynamic Typing Header -->
 <a href="https://github.com/NAVEEN-KUMAR-C-1420">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Naveen+Kumar+C+%F0%9F%91%8B;AI+%2F+ML+Engineer+in+the+Making;Full-Stack+Developer;Patent+Holder+%C3%97+2+%F0%9F%93%9C;Building+the+Future+with+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Naveen+Kumar+C+%F0%9F%91%8B;AI+%2F+Engineer+in+the+Making;Full-Stack+Developer;Patent+Holder+%C3%97+2+%F0%9F%93%9C;Building+the+Future+with+AI" alt="Typing SVG" />
 </a>
 
 <br/>
